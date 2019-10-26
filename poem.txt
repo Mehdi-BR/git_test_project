@@ -1,5 +1,5 @@
 # git_test_project
-Roses are red. #why red?
-Violets are blue. #really?
-Onions stink. #why?
-And so do you. #please change this expression!
+Roses are red. 
+Violets are blue. 
+Joker is a clown.
+And so are you :D
